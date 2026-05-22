@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "server",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "kill more player to get more heart",
+        "you can craft the hearts",
+        "mace is the most rare item in this server"
       ]
     },
     "chat-log": true,
